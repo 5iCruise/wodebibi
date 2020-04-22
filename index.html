@@ -15,9 +15,18 @@
     <meta name="google" content="index,follow" />
     <meta name="googlebot" content="index,follow" />
     <meta name="verify" content="index,follow" />
+    <meta name="apple-mobile-web-app-title" content="WoDeBiBi">
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />    
-    <script src="https://hm.baidu.com/hm.js?1ec0715e4d56efdf08e6bbd9bf232098"></script>
+    <script>
+      var _hmt = _hmt || [];
+      (function() {
+       var hm = document.createElement("script");
+       hm.src = "https://hm.baidu.com/hm.js?60f12fdb025ed62b8e9f0f2bede22c14";
+       var s = document.getElementsByTagName("script")[0]; 
+       s.parentNode.insertBefore(hm, s);
+      })();
+    </script>
 </head>
 
 <body>
@@ -28,9 +37,9 @@
         <aside>
             <p id="describe">
                 都是一些闲言、碎语与闪念</br>
-                可以关注公众号 「iCruiseDATA」 浏览更多奇奇怪怪的内容。
-                如果没找到，那就再等等吧！
-                如果找到了，那就是我偷懒了！
+                可以关注公众号 「iCruiseDATA」 浏览更多奇奇怪怪的内容。</br>
+                如果没找到，那就再等等吧！</br>
+                如果找到了，那就是我偷懒了, 好久不更新了！</br>
             </p>
         </aside>
         <p class="tip">现在总共 BiBi 了 {{count}} 条 </p>
@@ -40,11 +49,11 @@
         </section>
         <div class="load-ctn">
             <button class="load-btn" v-on:click="loadMore" v-if="contents" v-cloak>再翻翻</button>
-            <p class="tip" v-else>别急，努力加载呢！！</p>
+            <p class="tip" v-else>别急，小黑正努力加载呢！！</p>
         </div>
     </main>
     <footer>
-        <p class="center-text">Copyright © 2020 DarkWarrior2025，All Rights Reserved</p>
+        <p class="center-text">Copyleft © 2020 DarkWarrior2025，None Rights Reserved</p>
     </footer>
 </body>
 <script src="https://cdn.bootcss.com/vue/2.6.11/vue.min.js"></script>
@@ -229,13 +238,4 @@
         color: #fff;
     }
 </style>
-<script>
-    var _hmt = _hmt || [];
-    (function() {
-        var hm = document.createElement("script");
-        hm.src = "https://hm.baidu.com/hm.js?1ec0715e4d56efdf08e6bbd9bf232098";
-        var s = document.getElementsByTagName("script")[0]; 
-        s.parentNode.insertBefore(hm, s);
-    })();
-</script>
 </html>
