@@ -28,19 +28,19 @@
         <aside>
             <p id="describe">
                 都是一些闲言、碎语与闪念</br>
-                可以关注公众号“iCruiseDATA”浏览更多奇奇怪怪的内容。
+                可以关注公众号 「iCruiseDATA」 浏览更多奇奇怪怪的内容。
                 如果没找到，那就再等等吧！
                 如果找到了，那就是我偷懒了！
             </p>
         </aside>
-        <p class="tip">现在总共 b 了 {{count}} 条</p>
+        <p class="tip">现在总共 BiBi 了 {{count}} 条 </p>
         <section class="item" v-for="item in contents" v-cloak>
             <p v-html='item.attributes.content'></p>
             <time v-bind:datetime="item.attributes.time">{{item.attributes.time}}</time>
         </section>
         <div class="load-ctn">
             <button class="load-btn" v-on:click="loadMore" v-if="contents" v-cloak>再翻翻</button>
-            <p class="tip" v-else>别急，加载呢</p>
+            <p class="tip" v-else>别急，努力加载呢！！</p>
         </div>
     </main>
     <footer>
@@ -86,7 +86,7 @@
     function getData(page = 0) {
         query.descending('createdAt').skip(page * 20).limit(20).find().then(function(results) {
             if (results.length == 0) {
-                alert('之前没 b 过了')
+                alert('之前没 BiBi 过了')
             } else {
                 let resC = results;
                 reqData = false;
