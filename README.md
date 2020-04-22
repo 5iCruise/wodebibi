@@ -2,6 +2,7 @@
 Something Not Good 
 darkwarrior2025.xyz/wodebibi
 
+
 ## 关于
 
 这是一个基于 [LeanCloud](https://leancloud.com) 搭建的没有评论、点赞、阅读量干扰的说话空间。
@@ -19,3 +20,6 @@ darkwarrior2025.xyz/wodebibi
 你需要在 LeanCloud 后台创建一个名为 `content` 的 Class ，并在其中创建一个名为 `content` 的列。将 `AppID` 、`AppKey` 编辑入 `index.html` 注释提示处。然后将该文件上传至例如 `github.io` 之类 Web 服务器。
 
 [点击安装快捷指令](https://www.icloud.com/shortcuts/3cfcbc36a6a24e0a8721bfeef8dfc6cf)或[点击安装 Quicker](https://getquicker.net/sharedaction?code=eeb80278-5f53-4b0d-d333-08d7e0dd26a9) 可分别在 iOS 和 Windows 平台快速发表内容，也可以查阅 LeanCloud [文档](https://console.leancloud.app/docs/rest_api.html#hash1094926014)使用任意 HTTP 请求工具发送数据；
+
+
+## 参考：https://sspai.com/post/60024
