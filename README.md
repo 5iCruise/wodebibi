@@ -1,5 +1,6 @@
 ## WoDeBiBi
-Something Not Good 
+Something Not Good
+
 darkwarrior2025.xyz/wodebibi
 
 
@@ -22,4 +23,4 @@ darkwarrior2025.xyz/wodebibi
 [点击安装快捷指令](https://www.icloud.com/shortcuts/3cfcbc36a6a24e0a8721bfeef8dfc6cf)或[点击安装 Quicker](https://getquicker.net/sharedaction?code=eeb80278-5f53-4b0d-d333-08d7e0dd26a9) 可分别在 iOS 和 Windows 平台快速发表内容，也可以查阅 LeanCloud [文档](https://console.leancloud.app/docs/rest_api.html#hash1094926014)使用任意 HTTP 请求工具发送数据；
 
 
-## 参考：https://sspai.com/post/60024
+#### 参考：https://sspai.com/post/60024
