@@ -1,6 +1,4 @@
-![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)
-
-![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)  
 
 ## WoDeBiBi
 Something Not Good
