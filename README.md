@@ -5,9 +5,7 @@ Something Not Good
 
 ## 预览
 
-[网站链接](https://darkwarrior2025.xyz/wodebib]
-
-[Tell me](mailto:darkwarrior2025@pm.me]
+[网站链接](https://darkwarrior2025.xyz/wodebib)
 
 ## 关于
 
@@ -30,3 +28,4 @@ Something Not Good
 
 #### 参考：https://sspai.com/post/60024
 
+[Email](mailto:darkwarrior2025@pm.me)
