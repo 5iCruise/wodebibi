@@ -1,12 +1,13 @@
-![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)  
+![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)    ![Mastodon Follow](https://img.shields.io/mastodon/follow/000011904?domain=https%3A%2F%2Fliker.social&style=social)  
 
 ## WoDeBiBi
 Something Not Good
 
 ## 预览
 
-[网站链接](https://darkwarrior2025.xyz/wodebibi)
+[网站链接](https://darkwarrior2025.xyz/wodebib]
 
+[Tell me](mailto:darkwarrior2025@pm.me]
 
 ## 关于
 
@@ -28,3 +29,4 @@ Something Not Good
 
 
 #### 参考：https://sspai.com/post/60024
+
