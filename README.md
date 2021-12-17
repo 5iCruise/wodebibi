@@ -5,7 +5,7 @@ Something Not Good
 
 ## 预览
 
-[网站链接](https://darkwarrior2025.xyz/wodebib)
+[网站链接](https://darkwarrior2025.xyz/wodebibi)
 
 ## 关于
 
