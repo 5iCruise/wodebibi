@@ -1,4 +1,4 @@
-![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)    ![Mastodon Follow](https://img.shields.io/mastodon/follow/000011904?domain=https%3A%2F%2Fliker.social&style=social)  
+![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Mastodon Follow](https://img.shields.io/mastodon/follow/000011904?domain=https%3A%2F%2Fliker.social&style=social)  
 
 ## WoDeBiBi
 Something Not Good
@@ -29,3 +29,5 @@ Something Not Good
 #### 参考：https://sspai.com/post/60024
 
 [Email](mailto:darkwarrior2025@pm.me)
+
+![](https://lc-gluttony.s3.amazonaws.com/BLbjjtKH7t1G/FCTOi0p11hiCtmPg4ROqlT3nkjPMijjP/AlipayBonus.PNG)
