@@ -1,7 +1,7 @@
 ![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Mastodon Follow](https://img.shields.io/mastodon/follow/000011904?domain=https%3A%2F%2Fliker.social&style=social)  
 
 ## WoDeBiBi
-Something Not Good
+Something Not Good & Not Bad
 
 ## 预览
 
