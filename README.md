@@ -1,7 +1,9 @@
-![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)    ![Mastodon Follow](https://img.shields.io/mastodon/follow/000011904?domain=https%3A%2F%2Fliker.social&style=social)  
+![LastCommit](https://img.shields.io/github/last-commit/5icruise/wodebibi?label=Last%20Upadte&style=flat-square)    ![Licence](https://img.shields.io/github/license/5icruise/wodebibi?label=Licence&style=flat-square)  ![Mastodon Follow](https://img.shields.io/mastodon/follow/115800247598785155?domain=mastodon.social)
+
 
 ## WoDeBiBi
-Something Not Good
+Something Not Good    
+<img align="left" src="https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/KjPfbcMD5593tQBTqvusihi5cGv7J4i4/notion-avatar-M.png" width="150" alt="图片链接检查." />    
 
 ## 预览
 
@@ -9,8 +11,8 @@ Something Not Good
 
 ## 关于
 
-这是一个基于 [LeanCloud](https://leancloud.com) 搭建的没有评论、点赞、阅读量干扰的说话空间。
-
+这是一个基于 [LeanCloud](https://leancloud.com) 搭建的没有评论、点赞、阅读量干扰的说话空间。    
+ ★ **LeanCloud 将于2027年1月12日 停止对外服务。**      
 
 ## 鼓励
 
