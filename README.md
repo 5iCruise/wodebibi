@@ -3,7 +3,8 @@
 
 ## WoDeBiBi
 Something Not Good    
-<img align="left" src="https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/KjPfbcMD5593tQBTqvusihi5cGv7J4i4/notion-avatar-M.png" width="150" alt="图片链接检查." />    
+<img align="center" src="https://lc-gluttony.s3.amazonaws.com/LSX6nt5pudU7/KjPfbcMD5593tQBTqvusihi5cGv7J4i4/notion-avatar-M.png" width="150" alt="图片链接检查." />    
+`图片消失，项目停止！`
 
 ## 预览
 
